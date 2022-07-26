@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamarkandG
+- 👋 Hi, I’m Samarkand
 - 👀 I’m interested in FRONT and BACK developement
 - 🌱 I’m currently learning JAVASCRIPT !
 - 💞️ I’m looking to collaborate on many projects with you ! 
